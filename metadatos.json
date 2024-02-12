@@ -1,0 +1,11 @@
+{
+  "name": "Bitcoin {18}",
+  "image": "https://raw.githubusercontent.com/AlgorithmXProtocol/media/main/BTC18.png",
+  "description": "Este es un NFT que representa un token fungible de Bitcoin en un nuevo estandar denominado ERC722 el cual puede proporcionar la division en decimales de un NFT.",
+  "attributes": [
+    {"trait_type": "Rareza", "value": "Único"},
+    {"trait_type": "Tipo", "value": "Criptomoneda"},
+    {"trait_type": "Creador", "value": "AlgorithmX Protcol"}
+  ],
+  "compiler": "AlgorithmX Protcol"
+}
